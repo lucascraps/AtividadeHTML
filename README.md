@@ -14,7 +14,11 @@ inclusive não sei se ele vai estar lendo esse texto, provavelmente não. Apesar
 - Também podemos ver o único JS que seria o processo de criação HTTP e localhost.
 
 ## Conteúdo dos arquivos
-É um site de uma loja ficticia inventada por mim mesmo ~~vozes internas~~
+É um site de uma loja ficticia inventada por mim mesmo e pelo Vitor ~~vozes internas~~
 Baseado em informática, vendendo componentes eletrônicos para computadores e alguns periféricos, teoricamente
 essa loja seria localizada em Anastácio, com endereço real, porém apesar do lugar realmente existir
 infelimente não é da loja. 
+
+### Alunos
++Lucas Yuuji
++Vitor Rodrigues
