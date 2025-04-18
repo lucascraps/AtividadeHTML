@@ -19,7 +19,7 @@ inclusive não sei se ele vai estar lendo esse texto por completo, provavelmente
 **Tem um botão chamado FAQ, e sim é para dar erro, só para mostrar a página de erro do site.**
 
 ## Conteúdo dos arquivos
-É um site de uma loja ficticia inventada por mim mesmo e pelo Vitor ~~vozes internas~~
+É um site de uma loja ficticia inventada por mim mesmo e pelo Vitor.
 Baseado em informática, vendendo componentes eletrônicos para computadores e alguns periféricos, teoricamente
 essa loja seria localizada em Anastácio, com endereço real, porém apesar do lugar realmente existir
 infelimente não é da loja. 
