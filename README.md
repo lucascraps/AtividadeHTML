@@ -15,6 +15,7 @@ inclusive não sei se ele vai estar lendo esse texto por completo, provavelmente
 ## Arquivos:
 - Aqui podemos ver que tem vários arquivos HTML, cada um complementando um site.
 - Também podemos ver o único JS que seria o processo de criação HTTP e localhost.
+
 **Tem um botão chamado FAQ, e sim é para dar erro, só para mostrar a página de erro do site.**
 
 ## Conteúdo dos arquivos
