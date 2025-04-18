@@ -21,5 +21,5 @@ inclusive não sei se ele vai estar lendo esse texto por completo, provavelmente
 ## Conteúdo dos arquivos
 É um site de uma loja ficticia inventada por mim mesmo e pelo Vitor.
 Baseado em informática, vendendo componentes eletrônicos para computadores e alguns periféricos, teoricamente
-essa loja seria localizada em Anastácio, com endereço real, porém apesar do lugar realmente existir
-infelimente não é da loja. 
+essa loja seria localizada em Anastácio, com endereço real, porém apesar do lugar realmente existir,
+infelizmente não é a loja. 
