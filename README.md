@@ -1,5 +1,5 @@
 # HTML, NODEjs e HTTP
-servidor no puro NODEjs, sem terceiros.
+Servidor no puro NODEjs, sem terceiros.
 
 ## Atividade Escolar
 Nessa semana, referente a semana santa, meu professor pediu para fazer um servidor local usando o NODEjs
