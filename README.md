@@ -6,6 +6,7 @@ Nessa semana, referente a semana santa, meu professor pediu para fazer um servid
 inclusive não sei se ele vai estar lendo esse texto, provavelmente não. Apesar dele ter pedido para abrir um README.
 
 > Se for o senhor, não lembro o que era para colocar no README, portanto vou escrever várias coisas.
+> Abraços Prof Maeda.
 
 ## Arquivos:
 - Aqui podemos ver que tem vários arquivos HTML, cada um complementando um site.
