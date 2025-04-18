@@ -20,5 +20,5 @@ essa loja seria localizada em Anastácio, com endereço real, porém apesar do l
 infelimente não é da loja. 
 
 ### Alunos
-+Lucas Yuuji
-+Vitor Rodrigues
++ Lucas Yuuji
++ Vitor Rodrigues
